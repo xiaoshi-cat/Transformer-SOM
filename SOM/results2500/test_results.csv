@@ -1,0 +1,12 @@
+SampleID,Ca,Mg,Na,HCO3,Cl,SO4,Label,True_Label,Predicted_Label,Prediction_Correct
+S001,50.85,36.88,11.77,19.24,2.51,78.22,Source_A,Source_A,Source_A,True
+S002,49.73,39.47,10.37,13.9,2.12,83.91,Source_A,Source_A,Source_A,True
+S003,50.23,40.17,9.16,15.09,2.13,82.78,Source_A,Source_A,Source_A,True
+S004,60.29,38.49,5.87,44.62,4.6,50.74,Source_B,Source_B,Source_B,True
+S005,51.17,37.61,10.69,69.08,9.53,14.63,Source_B,Source_B,Source_B,True
+S006,47.16,39.19,12.63,75.28,9.2,14.77,Source_C,Source_C,Source_C,True
+S007,46.62,37.7,14.49,76.91,9.41,13.74,Source_C,Source_C,Source_C,True
+S008,67.1,31.1,1.54,72.14,8.76,14.58,Source_C,Source_C,Source_C,True
+S009,56.99,30.87,11.95,73.84,9.01,14.93,Source_D,Source_D,Source_D,True
+S010,62.73,30.13,6.8,70.61,8.57,16.88,Source_D,Source_D,Source_D,True
+S011,51.17,35.77,12.67,74.11,10.99,12.71,Source_D,Source_D,Source_C,False
